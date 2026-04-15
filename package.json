@@ -3,6 +3,7 @@
 	"version": "1.0",
 	"author": "AI Expert",
 	"description": "Certification Project for practising API and Backend Development",
+	"keywords": ["API", "Backend", "JSON"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
