@@ -4,6 +4,7 @@
 	"author": "AI Expert",
 	"description": "Certification Project for practising API and Backend Development",
 	"keywords": ["API", "Backend", "JSON"],
+	"license": "N/A",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
