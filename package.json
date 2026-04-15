@@ -6,7 +6,8 @@
 	"keywords": ["API", "Backend", "JSON"],
 	"license": "N/A",
 	"dependencies": {
-		"express": "^4.14.0"
+		"package-name": "@freecodecamp/example",
+		"express": "~1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
